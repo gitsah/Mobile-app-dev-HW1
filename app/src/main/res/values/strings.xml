@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework 1</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="my_name">Milaninia, Sahand 4/12/2018</string>
+    <string name="hi_button">Show hi</string>
+    <string name="cat">Cat</string>
+    <string name="hi">Hi!!</string>
+</resources>
